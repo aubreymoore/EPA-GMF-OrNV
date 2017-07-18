@@ -1,0 +1,232 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass scrartcl
+\begin_preamble
+\usepackage{mciteplus}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "linkcolor=blue,citecolor=blue,urlcolor=blue"
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Arguments for a Section 18 Emergency Exemption to Allow Use of 
+\emph on
+Metarhizium majus
+\emph default
+ and 
+\emph on
+Oryctes
+\emph default
+ nudivirus as Biological Control Agents for Coconut Rhinoceros Beetle on
+ Guam
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Enumerate
+Coconut rhinoceros beetle (CRB), 
+\emph on
+Oryctes rhinoceros
+\emph default
+, a major pest of coconut and other palms, was first detected on Guam in
+ 2007.
+ Adults bore into the crowns of palms to feed on sap, causing mortality
+ if they destroy the meristem.
+ CRB grubs do no economic damage.
+ They feed in dead coconut stems, fallen logs, and any material high in
+ organic content such as green waste, manure, sawdust, and soil.
+ Guam is currently experiencing an uncontrolled and unmonitored CRB outbreak
+ triggerred by abundant breeding sites left in the wake of a recent typhoon.
+ Many palms have already been killed island-wide, approaching 100% mortality
+ in some areas.
+ If the current outbreak cannot be controled, it is likely that Guam will
+ loose 50% or more of its palms, as happenened when Palau was invaded by
+ CRB at the end of WWII.
+ It is also likely that CRB will be accidentally exported to other islands.
+ The CRB outbreak prompted Governor Calvo to decare a 
+\begin_inset CommandInset href
+LatexCommand href
+name "state of emergency"
+target "http://kuam.images.worldnow.com/library/08d5c829-0405-411f-9e49-6dc4a1b83669.pdf"
+
+\end_inset
+
+ on July 13, 2017.
+\end_layout
+
+\begin_layout Enumerate
+The insect pathogens, 
+\emph on
+Oryctes
+\emph default
+ nudivirus, OrNV, and 
+\emph on
+Metarhizium majus
+\emph default
+, also known as green muscardine fungus, GMF are biological control agents
+ for the 
+\emph on
+Oryctes rhinoceros
+\emph default
+, the coconut rhinoceros beetle.
+ OrNV is applied by autodissemination as a classical, innoculative biocontrol
+ agent by autodissemination.
+ GMF is used as an augmentive biocontrol agent by incorporating spores into
+ active or potential CRB breeding sites.
+\end_layout
+
+\begin_layout Enumerate
+Humans have lived with 
+\emph on
+Metarhizium majus
+\emph default
+, 
+\emph on
+Oryctes nudivirus
+\emph default
+ hundreds of thousands of years.
+ No adverse human health effects have been reported.
+ These insect pathogens are not genetically engineered organisms nor are
+ they synthetic pesticides.
+ They have always been part of the human environment.
+\end_layout
+
+\begin_layout Enumerate
+The total amount of active ingredient applied to the environment is miniscule.
+ In an island-wide biocontrol program using GMF, a few milligrams of spores
+ will be used.
+ In the case of OrNV, a few nanograms of virus particles will be used.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Both 
+\emph on
+M.
+ majus
+\emph default
+ and OrNV are known to attack only dynastid beetles.
+ The coconut rhinoceros beetle is the only member of Dynastidae on Guam.
+ This high degree of host specificity is highly desired for insect pathogens
+ used as biocontrol agents.
+\end_layout
+
+\begin_layout Enumerate
+There are no reports of nontarget effects following release of 
+\emph on
+M.
+ majus
+\emph default
+ and OrNV as biocontrol agents on Guam, on other Pacific islands and elsewhere.
+\end_layout
+
+\begin_layout Enumerate
+Perceived, potential risks to human health and the environment from exposure
+ to 
+\emph on
+M.
+ majus
+\emph default
+ and OrNV should be balanced against the known risks to human health and
+ the environment from the loss of coconut palms.
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+M.
+ majus
+\emph default
+ and OrNV are regulated as biocontrol agents by USDA-APHIS.
+ Perhaps regulation of these same biocontrol agents by USEPA is an unnecessary
+ duplication of effort.
+ Both 
+\emph on
+M.
+ majus
+\emph default
+ and OrNV were imported to Guam and released under conditions of permits
+ received from USDA-APHIS.
+ 
+\end_layout
+
+\end_body
+\end_document
